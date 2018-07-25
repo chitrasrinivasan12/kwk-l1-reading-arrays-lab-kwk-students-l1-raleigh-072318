@@ -20,7 +20,6 @@ def last_student_by_index
    STUDENT_NAMES[5]
 end 
 
-
 def first_student_by_method
    STUDENT_NAMES.first
 end 
